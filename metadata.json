@@ -1,6 +1,0 @@
-{
-  "name": "Dragon's View",
-  "description": "Universal Offline File Viewer for native Android. View documents, spreadsheets, presentations, drawings, PDFs, images, source code, Markdown and archives directly on your device. Created by The RedDragon Society.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
